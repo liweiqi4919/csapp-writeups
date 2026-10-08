@@ -1,0 +1,1 @@
+?CTF{this_is_a_known_test_flag}

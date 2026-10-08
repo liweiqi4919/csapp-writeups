@@ -1,0 +1,13 @@
+You are so smart ，
+
+
+flag{this_is_a_fake_flag}
+
+
+but there is a string of mysterious characters here:
+
+
+qctf2026????
+
+
+do you know what it is? qwq
